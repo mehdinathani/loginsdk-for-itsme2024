@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "698452019241",
+    "project_id": "itsm2024loginsdk",
+    "storage_bucket": "itsm2024loginsdk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698452019241:android:412cec17172b82a7c6f438",
+        "android_client_info": {
+          "package_name": "com.example.loginsdk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxFgisKAVvTiXhPwfAbrJdNVRfexh6cfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
